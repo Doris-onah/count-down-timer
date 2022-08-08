@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Arima:wght@700&family=Big+Shoulders+Display&family=Edu+NSW+ACT+Foundation:wght@600;700&family=Epilogue:wght@500;700&family=Fugaz+One&family=Grape+Nuts&family=Inter:wght@300;700&family=Josefin+Sans:wght@300;400;600&family=Kaushan+Script&family=Kdam+Thmor+Pro&family=Kumar+One+Outline&family=Kumbh+Sans:wght@400;700&family=Lexend+Deca&family=Licorice&family=Lobster&family=Macondo&family=Manrope:wght@500&family=Oleo+Script+Swash+Caps&family=Open+Sans&family=Oswald&family=Outfit:wght@300;400;600&family=Overpass&family=Pacifico&family=Permanent+Marker&family=Playfair+Display:ital,wght@1,700&family=Poppins:wght@400;600&family=Righteous&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Arima:wght@700&family=Bebas+Neue&family=Big+Shoulders+Display&family=Edu+NSW+ACT+Foundation:wght@600;700&family=Epilogue:wght@500;700&family=Fugaz+One&family=Grape+Nuts&family=Inter:wght@300;700&family=Josefin+Sans:wght@300;400;600&family=Kaushan+Script&family=Kdam+Thmor+Pro&family=Kumar+One+Outline&family=Kumbh+Sans:wght@400;700&family=Lexend+Deca&family=Licorice&family=Lobster&family=Macondo&family=Manrope:wght@500&family=Oleo+Script+Swash+Caps&family=Open+Sans&family=Oswald&family=Outfit:wght@300;400;600&family=Overpass&family=Pacifico&family=Permanent+Marker&family=Playfair+Display:ital,wght@1,700&family=Poppins:wght@400;600&family=Righteous&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Arima:wght@700&family=Bebas+Neue&family=Big+Shoulders+Display&family=Edu+NSW+ACT+Foundation:wght@600;700&family=Epilogue:wght@500;700&family=Fugaz+One&family=Grape+Nuts&family=Inter:wght@300;700&family=Josefin+Sans:wght@300;400;600&family=Kaushan+Script&family=Kdam+Thmor+Pro&family=Kumar+One+Outline&family=Kumbh+Sans:wght@400;700&family=Lexend+Deca&family=Licorice&family=Lobster&family=Lobster+Two:wght@700&family=Macondo&family=Manrope:wght@500&family=Oleo+Script+Swash+Caps&family=Open+Sans&family=Oswald&family=Outfit:wght@300;400;600&family=Overpass&family=Pacifico&family=Permanent+Marker&family=Playfair+Display:ital,wght@1,700&family=Poppins:wght@400;600&family=Righteous&display=swap');
+body {
+    background-image: url(https://th.bing.com/th/id/R.0c12add8929c872e90b517f447d10449?rik=TljxNPxzTu0n8w&pid=ImgRaw&r=0);
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+min-height: 100vh;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.timer {
+     display: flex;
+    text-align: center;
+    justify-content: center;
+    gap: 10px;
+    line-height: 10px;
+}
+h1 {
+    font-family: "Lobster Two";
+    font-weight: 700;
+    font-size: 50px;
+    text-transform: capitalize;
+}
+.big-text {
+    font-size: 70px;
+    font-family: "Bebas Neue";
+    font-weight: 400;
+}
+.count {
+    font-size: 25px;
+  font-family: "Oleo Script Swash Caps";
+  font-weight: 400;
+ 
+}
